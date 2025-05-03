@@ -2,11 +2,11 @@
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,api.ipify.org
 #wechat
-sgshort.pay.wechat.com
-sglong.wechat.com
-sgminorshort.wechat.com
-sgshort.wechat.com
-sgaxshort.wechat.com
+DOMAIN-SUFFIX,sgshort.pay.wechat.com
+DOMAIN-SUFFIX,sglong.wechat.com
+DOMAIN-SUFFIX,sgminorshort.wechat.com
+DOMAIN-SUFFIX,sgshort.wechat.com
+DOMAIN-SUFFIX,sgaxshort.wechat.com
 #01
 DOMAIN-SUFFIX,api.liquidlink.cn
 DOMAIN-SUFFIX,get.activated.win
