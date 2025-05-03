@@ -1,6 +1,12 @@
 #ipleak
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,api.ipify.org
+#wechat
+sgshort.pay.wechat.com
+sglong.wechat.com
+sgminorshort.wechat.com
+sgshort.wechat.com
+sgaxshort.wechat.com
 #01
 DOMAIN-SUFFIX,api.liquidlink.cn
 DOMAIN-SUFFIX,get.activated.win
