@@ -13,5 +13,4 @@ DOMAIN-SUFFIX,get.activated.win
 DOMAIN-SUFFIX,api.weather.com
 DOMAIN-SUFFIX,madouqu.com
 DOMAIN-SUFFIX,play.sportsteam368.com
-#ip
-IP-CIDR,3.84.226.252/32
+
