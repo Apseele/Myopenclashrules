@@ -11,7 +11,9 @@ DOMAIN-SUFFIX,sgaxshort.wechat.com
 DOMAIN-SUFFIX,api.liquidlink.cn
 DOMAIN-SUFFIX,get.activated.win
 DOMAIN-SUFFIX,api.weather.com
-DOMAIN-SUFFIX,madouqu.com
 DOMAIN-SUFFIX,play.sportsteam368.com
+#P
+DOMAIN-SUFFIX,bingganjiejie.com
+DOMAIN-SUFFIX,madouqu.com
 #ip
 IP-CIDR,8.222.208.40/32
