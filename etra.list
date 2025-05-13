@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,m.sportsteam586.com
 DOMAIN-SUFFIX,device.auth.xboxlive.com
 #wechat
 DOMAIN,dl.wechat.com
+DOMAIN,dns.wechat.com
 DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
 DOMAIN,sgshort.wechat.com
