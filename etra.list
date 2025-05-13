@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,sglong.wechat.com
 DOMAIN-SUFFIX,sgminorshort.wechat.com
 DOMAIN-SUFFIX,sgshort.wechat.com
 DOMAIN-SUFFIX,sgaxshort.wechat.com
+DOMAIN-SUFFIX,dl.wechat.com
 #01
 DOMAIN-SUFFIX,api.liquidlink.cn
 DOMAIN-SUFFIX,get.activated.win
