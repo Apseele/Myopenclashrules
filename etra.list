@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,api.liquidlink.cn
 DOMAIN-SUFFIX,get.activated.win
 DOMAIN-SUFFIX,api.weather.com
 DOMAIN-SUFFIX,m.sportsteam586.com
-DOMAIN-SUFFIX,device.auth.xboxlive.com
+DOMAIN-KEYWORD,xboxlive
 #wechat
 DOMAIN,dl.wechat.com
 DOMAIN,dns.wechat.com
