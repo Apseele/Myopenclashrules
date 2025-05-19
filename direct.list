@@ -1,4 +1,5 @@
 #steam
 DOMAIN,steamcdn-a.akamaihd.net
-DOMAIN-KEYWORD,steampowered
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
