@@ -1,6 +1,7 @@
-#pikpak
+#pikpak直连
 DOMAIN-KEYWORD,dl-a10b-
 DOMAIN-KEYWORD,dl-z01a-
+#wechat直连
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,slife.xy-asia.com
 DOMAIN-SUFFIX,iot-tencent.com
