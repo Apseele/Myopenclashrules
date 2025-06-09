@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,sportsteam
 DOMAIN-KEYWORD,supercell
 DOMAIN,access.mypikpak.com
 DOMAIN,api-drive.mypikpak.com
+DOMAIN-SUFFIX,konami.net
 #wechat
 DOMAIN,dl.wechat.com
 DOMAIN,dns.wechat.com
