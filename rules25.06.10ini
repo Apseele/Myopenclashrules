@@ -48,9 +48,9 @@ custom_proxy_group=💬 即时通讯`select`[]🇭🇰 HK-自动`[]🇯🇵 JP-�
 custom_proxy_group=🙋 社交媒体`select`[]🇭🇰 HK-自动`[]🇯🇵 JP-自动`[]🇸🇬 SG-自动`[]🇹🇼 TW-自动`[]REJECT
 custom_proxy_group=📹 油管视频`select`[]🇭🇰 HK-自动`[]🇯🇵 JP-自动`[]🇹🇼 TW-自动
 custom_proxy_group=📺 巴哈姆特`select`[]🇹🇼 TW-自动`[]REJECT
-custom_proxy_group=🗽 国外`select`[]DIRECT`[]🇭🇰 HK-自动`[]🇹🇼 TW-自动`[]🇯🇵 JP-自动`[]🇸🇬 SG-自动`[]🇺🇸 US-自动`[]🌐 其他地区`[]REJECT
+custom_proxy_group=🗽 国外`select`[]DIRECT`[]🇭🇰 HK-自动`[]🇹🇼 TW-自动`[]🇯🇵 JP-自动`[]🇸🇬 SG-自动`[]🇺🇸 US-自动`[]🌐其他地区`[]REJECT
 custom_proxy_group=🎯 直连规则`select`[]DIRECT`[]REJECT
-custom_proxy_group=➡️ 直连/代理`select`[]DIRECT`[]🇭🇰 HK-自动`[]🇯🇵 JP-自动`[]🇹🇼 TW-自动`[]🇸🇬 SG-自动`[]🇺🇸 US-自动`[]🌐 其他地区`[]REJECT
+custom_proxy_group=➡️ 直连/代理`select`[]DIRECT`[]🇭🇰 HK-自动`[]🇯🇵 JP-自动`[]🇹🇼 TW-自动`[]🇸🇬 SG-自动`[]🇺🇸 US-自动`[]🌐其他地区`[]REJECT
 
 
 
