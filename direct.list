@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,taobao.com
 #ip
 IP-CIDR,223.5.5.5/16
 IP-CIDR,202.100.192.68/16
+#pikpak
+DOMAIN-KEYWORD,dl-z01a
