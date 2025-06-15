@@ -23,6 +23,7 @@ ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_scr
 ruleset=📘 GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
 ruleset=💬 即时通讯,[]GEOSITE,category-communication
 ruleset=💬 即时通讯,[]GEOIP,telegram,no-resolve
+ruleset=🙋 社交媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Instagram/Instagram.list
 ruleset=🙋 社交媒体,[]GEOSITE,category-social-media-!cn
 ruleset=🙋 社交媒体,[]GEOIP,twitter,no-resolve
 ruleset=🙋 社交媒体,[]GEOIP,facebook,no-resolve
