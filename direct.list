@@ -7,3 +7,17 @@ IP-CIDR,223.5.5.5/16
 IP-CIDR,202.100.192.68/16
 #pikpak
 DOMAIN-KEYWORD,dl-z01a
+## Steam-Download
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+DOMAIN,cdn-ws.content.steamchina.com
+DOMAIN,cdn-qc.content.steamchina.com
+DOMAIN,cdn-cdn-ali.content.steamchina.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
