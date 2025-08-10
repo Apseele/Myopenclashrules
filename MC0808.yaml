@@ -230,8 +230,7 @@ rules:
   # ✅ 服务分流
   - RULE-SET,google_domain,Google
   - GEOIP,google,Google
-  - RULE-SET,apple_domain,Apple
-  - RULE-SET,apple_ip,Apple
+  - GEOSITE,apple,Apple
   - RULE-SET,microsoft_domain,Microsoft
   # ✅ 流媒体分流
   - RULE-SET,spotify_domain,Spotify
