@@ -179,8 +179,6 @@ rule-providers:
   
   #服务分流
   google_domain: {<<: *domain, path: ./ruleset/google_domain.mrs, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs"}
-  apple_domain: {<<: *domain, path: ./ruleset/apple_domain.mrs, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-cn.mrs"}
-  apple_ip: {<<: *ip, path: ./ruleset/apple_ip.mrs, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/apple.mrs"}
   microsoft_domain: {<<: *domain, path: ./ruleset/microsoft_domain.mrs, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.mrs"}
 
   #流媒体分流
