@@ -202,11 +202,11 @@ rule-providers:
 
 
 rules:
-  # ✅ 自定义代理文件
-  - RULE-SET,etralist_class,Proxy
   # ✅ 直连高优先
   - RULE-SET,direct_class,DIRECT
   - GEOSITE,category-games@cn,DIRECT
+  # ✅ 自定义代理文件
+  - RULE-SET,etralist_class,Proxy
   # ✅ 私有网络/国内/广告/拦截
   - GEOSITE,private,DIRECT
   - GEOIP,private,DIRECT,no-resolve
