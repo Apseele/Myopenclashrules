@@ -7,8 +7,6 @@ DOMAIN-SUFFIX,get.activated.win
 DOMAIN-SUFFIX,api.weather.com
 DOMAIN-KEYWORD,sportsteam
 DOMAIN-KEYWORD,supercell
-DOMAIN,api-drive.mypikpak.com
-DOMAIN,access.mypikpak.com
 DOMAIN-SUFFIX,konami.net
 #P
 DOMAIN-SUFFIX,bingganjiejie.com
@@ -18,3 +16,5 @@ DOMAIN-SUFFIX,spyfam.com
 DOMAIN-SUFFIX,dorcelclub.com
 #ip
 IP-CIDR,8.222.208.40/32,no-resolve
+#PIKPAK
+DOMAIN-SUFFIX,mypikpak.com
