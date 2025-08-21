@@ -1,10 +1,7 @@
-#01
+#tx
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,taobao.com
-#ip
-IP-CIDR,223.5.5.5/16
-IP-CIDR,202.100.192.68/16
 #pikpak
 DOMAIN-KEYWORD,dl-z01a
 DOMAIN-KEYWORD,dl-a10b
@@ -21,8 +18,7 @@ DOMAIN-SUFFIX,wechatos.net
 DOMAIN-SUFFIX,wechatpay.com
 DOMAIN-SUFFIX,weixinbridge.co,DIRECT
 DOMAIN-SUFFIX,weixinsxy.com
-IP-CIDR,43.156.222.0/24,DIRECT,no-resolve
-IP-CIDR,43.160.156.0/24,DIRECT,no-resolve
+
 ## Steam-Download
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
