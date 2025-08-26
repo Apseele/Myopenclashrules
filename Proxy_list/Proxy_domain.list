@@ -4,7 +4,6 @@ DOMAIN,steampowered.com
 
 ## Steam-Chat
 DOMAIN-SUFFIX,steam-chat.com
-DOMAIN,api.steampowered.com
 
 ## Steam-Community
 DOMAIN-SUFFIX,steamcommunity.com
@@ -13,7 +12,6 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
 
 ## Steam-Shop
-DOMAIN,store.steampowered.com
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,underlords.com
