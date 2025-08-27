@@ -1,6 +1,6 @@
 #Steam
-DOMAIN,cm.steampowered.com
-DOMAIN,steampowered.com
+##DOMAIN,cm.steampowered.com
+##DOMAIN,steampowered.com
 
 ## Steam-Chat
 DOMAIN-SUFFIX,steam-chat.com
