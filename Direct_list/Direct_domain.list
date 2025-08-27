@@ -15,10 +15,10 @@ DOMAIN-SUFFIX,weixinbridge.co
 DOMAIN-SUFFIX,weixinsxy.com
 
 ##steam
-##DOMAIN-SUFFIX,steamserver.net
-##DOMAIN,steamcdn-a.akamaihd.net
-##DOMAIN-SUFFIX,cm.steampowered.com
-##DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamcontent.com
 
 
 ## Steam-Download
