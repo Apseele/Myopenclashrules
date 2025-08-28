@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,steamcontent.com
 
 
 ## Steam-Download
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,st.dl.bscstorage.net
