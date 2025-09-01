@@ -147,16 +147,13 @@ rule-providers:
   ubi: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ubisoft.mrs"}
   
   #ip
-
   bilibili_ip: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/bilibili.mrs"}
   cn_ip: {<<: *ip, url: 'https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs'}
   private_ip: {<<: *ip, url: 'https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/private.mrs'}
   apple_ip: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/apple.mrs"}
+  google_ip: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/google.mrs"}
   telegram_ip: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/telegram.mrs"}
   twitter_ip: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/twitter.mrs"}
-  
-  #代理
-  proxy_ip_list: {<<: *iplist, url: 'https://raw.githubusercontent.com/Apseele/Myopenclashrules/refs/heads/main/Proxy_list/Proxy_IP_CIDR.list'}
   proxy_ip_list: {<<: *iplist, url: 'https://raw.githubusercontent.com/Apseele/Myopenclashrules/refs/heads/main/Proxy_list/Proxy_IP_CIDR.list'}
   direct_ip_list: {<<: *iplist,url: "https://raw.githubusercontent.com/Apseele/Myopenclashrules/refs/heads/main/Direct_list/Direct_IP_CIDR.list"}
 
