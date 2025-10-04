@@ -1,8 +1,4 @@
-#Steam
-##DOMAIN,cm.steampowered.com
-##DOMAIN,steampowered.com
-
-## Steam-Chat
+# Steam-Chat
 DOMAIN-SUFFIX,steam-chat.com
 
 ## Steam-Community
