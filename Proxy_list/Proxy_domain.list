@@ -33,3 +33,7 @@ DOMAIN-SUFFIX,javdb.com
 
 #PIKPAK
 DOMAIN-SUFFIX,mypikpak.com
+
+#wechat
+DOMAIN-KEYWORD,short.wechat
+DOMAIN-KEYWORD,long.wechat
